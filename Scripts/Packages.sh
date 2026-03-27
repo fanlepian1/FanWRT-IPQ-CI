@@ -76,7 +76,7 @@ UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "rkp-ipid" "yho2ds/rkp-ipid-fixed" "master"
+UPDATE_PACKAGE "rkp-ipid" "CHN-beta/rkp-ipid" "master"
 UPDATE_PACKAGE "ua3f" "SunBK201/UA3F" "master"
 
 #更新软件包版本

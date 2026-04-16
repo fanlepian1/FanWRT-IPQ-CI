@@ -78,7 +78,7 @@ UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-ap
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 UPDATE_PACKAGE "ua3f" "SunBK201/UA3F" "master"
 UPDATE_PACKAGE "rkp-ipid" "CHN-beta/rkp-ipid" "master"
-UPDATE_PACKAGE "luci-app-drcom-cpp-client" "azurstar/luci-app-drcom-cpp-client" "main"
+UPDATE_PACKAGE "luci-app-drcom-auth" "ChaosJulien/luci-app-drcom-auth" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
